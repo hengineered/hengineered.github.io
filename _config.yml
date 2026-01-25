@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Contact: https://youtube.com
+  Contact: https://docs.google.com/forms/d/e/1FAIpQLScz2m5qK1U-eMnMx-DZb3vAoLCWhzdGKjJZuZZyoxB5vLwKPw/viewform?usp=publish-editor
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/chicken.png"
