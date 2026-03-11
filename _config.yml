@@ -15,3 +15,6 @@ color_scheme: dark
 search_enabled: false
 
 nav_enabled: true
+
+ga_tracking: G-J9FT0SYBDB
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
